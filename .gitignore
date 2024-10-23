@@ -1,0 +1,11 @@
+# Environments
+.env
+venv/
+.env
+.venv
+ENV/
+env.bak/
+venv.bak/
+
+# LLM Iterations Output
+flask_app_builder_log.json
